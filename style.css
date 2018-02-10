@@ -19,7 +19,6 @@ list-style: none;
 nav ul li{
 
 display: inline;
-border: 1px solid grey;
 padding: 10px;
 
 }
@@ -39,5 +38,30 @@ float: right;
 p{
 
 background-color: margin: 30px;
+
+}
+
+h2 {
+
+text-align: center;
+
+}
+
+#Projects{
+
+text-align: center;
+
+}
+
+#Contact{
+
+text-align: right;
+
+}
+
+h3{
+
+display: inline;
+padding: 80px;
 
 }
